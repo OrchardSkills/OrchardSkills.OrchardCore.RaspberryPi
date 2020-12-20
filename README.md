@@ -1,2 +1,2 @@
 # OrchardSkills.OrchardCore.RaspberryPi
-Orchard Core on Raspberry Oi
+Orchard Core on Raspberry Pi

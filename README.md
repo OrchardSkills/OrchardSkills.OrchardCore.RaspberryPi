@@ -1,6 +1,6 @@
 # OrchardSkills.OrchardCore.RaspberryPi
 
-Orchard Core on Raspberry Pi
+Orchard Core on Raspberry Pi OS 64bit
 
 ## Update the Raspberry Pi OS
 

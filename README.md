@@ -39,3 +39,7 @@ git config user.name "FIRST_NAME LAST_NAME"
 git config user.email "MY_NAME@example.com"s
 git config --global credential.helper store
 ```
+
+[Microsoft Teams for Linux Releases](https://github.com/IsmaelMartinez/teams-for-linux/releases)
+
+download teams-for-linux_1.0.5_arm64.deb and run install by double clicking on file

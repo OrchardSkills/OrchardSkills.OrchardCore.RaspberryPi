@@ -1,6 +1,6 @@
 # OrchardSkills.OrchardCore.RaspberryPi
 
-Orchard Core on Raspberry Pi
+Orchard Core on Raspberry Pi OS 64bit
 
 ## Update the Raspberry Pi OS
 
@@ -36,7 +36,7 @@ export PATH=$PATH:$HOME/dotnet
 
 ```
 git config user.name "FIRST_NAME LAST_NAME"
-git config user.email "MY_NAME@example.com"s
+git config user.email "MY_NAME@example.com"
 git config --global credential.helper store
 ```
 

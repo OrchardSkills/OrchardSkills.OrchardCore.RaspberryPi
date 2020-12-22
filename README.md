@@ -70,3 +70,21 @@ download teams-for-linux_1.0.5_armv7l.deb and install by double clicking on file
 
 ## Add C# extension in VS Code
 
+## Customize Desktop
+
+Click Raspberry Pi Icon -> Preferences -> Main Menu Editor
+
+Select Preferences. Select Desktop Preferences, Desktop Session Settings, Display Settings, OpenBox Configuration Manager, Package Sources, Qt5 Settings, Setup Hot Keys, Theme and Appearance Settings
+
+## Install more themes
+
+```
+sudo apt install arc-theme papirus-icon-theme breeze-cursor-theme -y
+```
+
+Seclect Preferences -> Theme and Appearance Settings
+
+On Widgets Tab select Arc-Dark, On Icon Theme Tab select Papirus-Dark, On Mouse Cursor Tab select select Breeze, On Window Boarder select Arc-Dark and them pressed the Apply button.
+
+Right Click on Panel and select Panel Settings. Select Position Edge to Bottom.
+

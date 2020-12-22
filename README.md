@@ -86,5 +86,31 @@ Seclect Preferences -> Theme and Appearance Settings
 
 On Widgets Tab select Arc-Dark, On Icon Theme Tab select Papirus-Dark, On Mouse Cursor Tab select select Breeze, On Window Boarder select Arc-Dark and them pressed the Apply button.
 
-Right Click on Panel and select Panel Settings. Select Position Edge to Bottom.
+Right Click on Panel and select Panel Settings. On Geometry Tab select Position Edge to Bottom. Increase the size of the icons Height to 48 and Width to 48. On the Panel Applets Tab click the Add button and add the CPU Temperature Monitor
 
+## Add System Utilities (neofetch)
+
+```
+sudo apt install neofetch -y
+```
+## Modify config.txt
+
+[Raspberry Pi Config.txt Settings](https://raspbian.org/RaspberryPiConfigTxt)
+
+```
+sudo nano /boot/config.txt
+ctrl 0 ctrl x
+```
+
+```
+hdmi_ignore_edid=0xa5000080
+disable_overscan=1
+```
+
+Overclock Setings
+
+```
+overvoltage=6
+arm_freq=2147
+gpu_freq=750
+```

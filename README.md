@@ -53,6 +53,20 @@ git config user.email "MY_NAME@example.com"
 git config --global credential.helper store
 ```
 
+# Push your first Commit
+
+```
+git commit -m "Commit initial code"
+git push
+username:
+password:
+```
+
+## Install Microsoft Teams
+
 [Microsoft Teams for Linux Releases](https://github.com/IsmaelMartinez/teams-for-linux/releases)
 
 download teams-for-linux_1.0.5_armv7l.deb and install by double clicking on file
+
+## Add C# extension in VS Code
+

@@ -114,3 +114,9 @@ over_voltage=6
 arm_freq=2000
 gpu_freq=750
 ```
+
+# Install Argon One Case Drivers
+
+```
+curl https://download.argon40.com/argon1.sh | bash 
+```

@@ -107,10 +107,10 @@ hdmi_ignore_edid=0xa5000080
 disable_overscan=1
 ```
 
-Overclock Setings
+Overclock Settings
 
 ```
-overvoltage=6
-arm_freq=2147
+over_voltage=6
+arm_freq=2000
 gpu_freq=750
 ```

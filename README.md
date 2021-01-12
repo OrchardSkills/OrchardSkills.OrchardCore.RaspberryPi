@@ -9,6 +9,19 @@ sudo apt update
 sudo apt full-upgrade
 sudo reboot
 ```
+## Update EEPROM
+
+### Check if a update is needed
+
+```
+sudo rpi-eeprom-update
+```
+
+### Perform the update
+
+```
+sudo rpi-eeprom-update -a
+```
 
 ## Clone the Orchard Skills RaspberryPi GitHub Repository
 

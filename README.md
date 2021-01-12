@@ -23,6 +23,12 @@ sudo rpi-eeprom-update
 sudo rpi-eeprom-update -a
 ```
 
+## raspi-config
+
+```
+sudo raspi-config
+```
+
 ## Clone the Orchard Skills RaspberryPi GitHub Repository
 
 Launch Teminal

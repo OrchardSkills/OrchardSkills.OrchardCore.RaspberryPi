@@ -66,7 +66,7 @@ export PATH=$PATH:$HOME/dotnet
 
 ```
 sudo mkdir -p /usr/share/dotnet
-sudo tar tar zxf dotnet-sdk-3.1.404-linux-arm.tar.gz -C -C /usr/share/dotnet
+sudo tar tar zxf dotnet-sdk-3.1.404-linux-arm.tar.gz -C /usr/share/dotnet
 sudo ln -s /usr/share/dotnet/dotnet /usr/bin/dotnet
 ```
 

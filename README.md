@@ -126,7 +126,7 @@ sudo apt install neofetch -y
 
 ```
 sudo nano /boot/config.txt
-ctrl 0 ctrl x
+ctrl o ctrl x
 ```
 
 ```
